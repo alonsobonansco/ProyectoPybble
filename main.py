@@ -1,6 +1,6 @@
 # Así se comenta
 if 3 < 4:
-    print("A: Qué sucede")
+    print("B: Qué sucede")
 # Prueba
 print("Hola")
 
